@@ -1,4 +1,3 @@
-# lono-logger
+# lono-static
 TODO
-- [ ] 异常关闭输出日志
-- [ ] 输出日志文件
+- [ ] 增加cache缓存
